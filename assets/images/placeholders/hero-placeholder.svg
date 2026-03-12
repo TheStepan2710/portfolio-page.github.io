@@ -1,0 +1,18 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <g opacity="0.72" filter="url(#blur)">
+    <ellipse cx="330" cy="280" rx="320" ry="220" fill="#87A6FF"/>
+    <ellipse cx="1180" cy="230" rx="290" ry="210" fill="#9CD7D8"/>
+    <ellipse cx="860" cy="760" rx="460" ry="280" fill="#D9C3FF"/>
+  </g>
+  <path d="M252 702C430 598 620 622 816 704C1012 786 1198 824 1366 728" stroke="rgba(16,17,20,0.28)" stroke-width="3"/>
+  <defs>
+    <filter id="blur" x="-120" y="-120" width="1840" height="1240" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="48"/>
+    </filter>
+    <linearGradient id="bg" x1="80" y1="40" x2="1500" y2="920" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFF"/>
+      <stop offset="1" stop-color="#EEF1F7"/>
+    </linearGradient>
+  </defs>
+</svg>

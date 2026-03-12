@@ -1,0 +1,14 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#EBEFF8"/>
+  <g filter="url(#blur)">
+    <circle cx="380" cy="260" r="240" fill="#9BB5FF"/>
+    <circle cx="1210" cy="280" r="260" fill="#8FE0D6"/>
+    <circle cx="820" cy="690" r="300" fill="#CCB3FF"/>
+  </g>
+  <rect x="260" y="210" width="1080" height="480" rx="58" stroke="#FFFFFF" stroke-opacity="0.72" stroke-width="2"/>
+  <defs>
+    <filter id="blur" x="-90" y="-210" width="1780" height="1300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="70"/>
+    </filter>
+  </defs>
+</svg>
